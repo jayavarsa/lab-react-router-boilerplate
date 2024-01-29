@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="navbar">
         <div>
           <Link to={"/"}>
-        <img src="https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png" alt="" />
+        <img src="https://kalvium.com/wp-content/uploads/2023/04/Kalvium-Logo-SVG.svg" alt="logo" />
           </Link>
         </div>
         <div className='redirectNavbar'>
